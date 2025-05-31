@@ -47,9 +47,9 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Junran Gao
+* Phone: 15522512727 / Email: [3074482817@qq.com](3074482817@qq.com)
+* Personal Website: [rainbow52after.github.io](https://rainbow52after.github.io/)
 
 Education
 ======

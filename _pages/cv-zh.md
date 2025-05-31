@@ -46,14 +46,13 @@ redirect_from:
 </body>
 
 * 姓名: Your Name
-* 电话及微信 15705694836 / 邮箱 [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
+* 电话及微信 15522512727 / 邮箱 [3074482817@qq.com](3074482817@qq.com)
+* 个人主页：[rainbow52after.github.io](https://rainbow52after.github.io/)
 
 学历
 ======
-* 本科：北京，北京大学，2022
-  * 专业：信息与计算科学（图灵班），信息科学技术学院
-  * 双学位：经济学，国家发展研究院
+* 本科：北京，北京大学，2024
+  * 专业：集成电路设计与集成系统，信息科学技术学院
 
 
 
