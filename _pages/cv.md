@@ -53,13 +53,8 @@ redirect_from:
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
-  * Double Degree: Economics, National School of Development
-
-Awards
-======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* Undergraduate: Beijing, Peking University, 2024
+  * Major: Integrated circuit design and integrated systems，School of Electronics Engineering and Computer Science
 
 <!--
 Work experience

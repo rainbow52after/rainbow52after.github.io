@@ -45,8 +45,8 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名: Your Name
-* 电话及微信 15522512727 / 邮箱 [3074482817@qq.com](3074482817@qq.com)
+* 姓名: 高俊然
+* 电话 15522512727 / 邮箱 [3074482817@qq.com](3074482817@qq.com)
 * 个人主页：[rainbow52after.github.io](https://rainbow52after.github.io/)
 
 学历
