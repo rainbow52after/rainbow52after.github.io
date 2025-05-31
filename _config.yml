@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Junran Gao(高俊然)"
-  avatar           : "white.png"
+  avatar           : "head.png"
   bio              : "Peking University"
   location         : "China Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "help@pkuhub.cn"
+  email            : "3074482817@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           : "raibbow52after"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : 
+  wechat           : gao06ran
 
 
 # Reading Files
