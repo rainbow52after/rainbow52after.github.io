@@ -1,8 +1,8 @@
 ---
-title: "rainbow52after.github.io"
+title: "test_repositories.github.io"
 collection: Repositories
 type: "Repositories"
-permalink: /Repositories/rainbow52after.github.io
+permalink: /Repositories/test_repositories.github.io
 venue: "Peking Univercity"
 date: 2025-6-1
 location: "Beijing, China"
