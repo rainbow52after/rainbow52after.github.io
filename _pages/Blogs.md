@@ -6,4 +6,4 @@ author_profile: true
 ---
 {% include base_path %}
 
-- [1111]({{ "/Blogs/模版" | relative_url }})
+- [1111]({{ "/Blogs/模版.md" | relative_url }})
