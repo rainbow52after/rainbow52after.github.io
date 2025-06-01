@@ -107,7 +107,7 @@ author_profile: true
 
 
 
-##Notes
+## Notes
 
 {% assign paths = "test.md" | split: "," %}
 
