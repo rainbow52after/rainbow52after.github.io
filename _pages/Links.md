@@ -89,7 +89,6 @@ author_profile: true
 <br/>
 
 <!-- Giscus 评论系统嵌入 -->
-在你修改前, 这个评论区不是你的
 
 <script src="https://giscus.app/client.js"
         data-repo="rainbow52after/rainbow52after.github.io"
