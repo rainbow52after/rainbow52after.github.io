@@ -19,8 +19,7 @@ I would like to express my special thanks to my seniors for their technical guid
 The website is still under construction. Codes and course notes are uploading quickly.
 
 <h2>Pageviews</h2>
-在你修改之前, 这里不是你的网站的访问信息
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=Xteqax5WFaDcaaYFg8-_57dmX_hKZ7hu1q38bzSC-1M"></script>
 <h2>Contact me</h2>
 
 
