@@ -93,13 +93,13 @@ author_profile: true
     </style>
    <details><summary>点击展开 </summary>
   <div class="timeline-container">
-        <!-- 2022 秋 -->
+        <!-- 2025·夏 -->
     <div class="timeline-item">
       <div class="timeline-node"></div>
         <div class="content">
                 <h3>你好, EECS</h3>
-                <span class="time">2022 秋</span>
-                <p>入燕园，初窥计算机语言与 Github</p>
+                <span class="time">2025 夏</span>
+                <p>初窥计算机语言与 Github</p>
         </div>
     </div>
     </div>
@@ -107,9 +107,9 @@ author_profile: true
 
 
 
-## 111
+##Notes
 
-{% assign paths = "nameofthemd.md" | split: "," %}
+{% assign paths = "test.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}

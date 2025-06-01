@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-Junran Gao's site"
+title                    : "Junran Gao's site"
 title_separator          : "-"
 name                     : &name "xker "
 description              : &description "111"
