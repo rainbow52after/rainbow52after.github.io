@@ -92,18 +92,17 @@ author_profile: true
 在你修改前, 这个评论区不是你的
 
 <script src="https://giscus.app/client.js"
-        data-repo="ICUlizhi/ICUlizhi.github.io"
-        data-repo-id="R_kgDOKfCXRQ"
+        data-repo="rainbow52after/rainbow52after.github.io"
+        data-repo-id="R_kgDOOzsOrA"
         data-category="Announcements"
-        data-category-id="DIC_kwDOKfCXRc4CknGa"
-        data-mapping="url"
+        data-category-id="DIC_kwDOOzsOrM4Cq4Kh"
+        data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
         data-lang="zh-CN"
-        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
