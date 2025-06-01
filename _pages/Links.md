@@ -88,7 +88,7 @@ author_profile: true
 - Name: Junran Gao's Site <br/>
 - Introduction: An apple a day keeps the doctor away. <br/>
 - Link: https://rainbow52after.github.io/<br/>
-- Icon: https://rainbow52after.github.io/images/head.png\<br/>
+- Icon: https://rainbow52after.github.io/images/head.png/<br/>
 - Card Color: Pink<br/>
 
 
