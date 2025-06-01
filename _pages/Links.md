@@ -73,7 +73,7 @@ author_profile: true
         <div class="friend-intro">上士闻道, 勤而行之</div>
       </a>
     </div>
-    <div class="friend-card" style="background-color:rgb(255, 113, 203);">
+    <div class="friend-card" style="background-color:rgb(248, 146, 211);">
       <a href="https://pku-cs-cjw.top/about/" target="_blank">
         <img src="../images/anzhiyu.png" alt="CJW's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">CJW's Blog</div>
