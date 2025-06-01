@@ -83,7 +83,7 @@ author_profile: true
   </div>
 <br/><br/><br/>
 
-
+请在评论区留言告知 intro 和 link, 或者微信 or 邮箱联系我. 如果只留言了 intro 和 link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.
 
 
 <br/>
