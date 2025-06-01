@@ -83,13 +83,13 @@ author_profile: true
   </div>
 <br/><br/><br/>
 
-请在评论区留言告知 intro 和 link, 或者微信 or 邮箱联系我. 如果只留言了 intro 和 link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.
-- Template：
-- Name: Junran Gao's Site 
-- Introduction: An apple a day keeps the doctor away. 
-- Link: https://rainbow52after.github.io/
-- Icon: https://rainbow52after.github.io/images/head.png\
-- Card Color: Pink
+请在评论区留言告知 intro 和 link, 或者微信 or 邮箱联系我. 如果只留言了 intro 和 link, 以及关于卡片的其他要求比如颜色, 加上友链后我会将该评论删除.<br/>
+- Template：<br/>
+- Name: Junran Gao's Site <br/>
+- Introduction: An apple a day keeps the doctor away. <br/>
+- Link: https://rainbow52after.github.io/<br/>
+- Icon: https://rainbow52after.github.io/images/head.png\<br/>
+- Card Color: Pink<br/>
 
 
 <br/>
